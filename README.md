@@ -1,8 +1,8 @@
 # ON TASK
 ON TASK es un gestor de tareas simple creado con React :atom_symbol: y Spring.<br>
 
-Durante este verano he estado aprendiendo React con el objetivo de utilizarlo en mi Trabajo Fin de Grado que comenzaré en los próximos meses. <br>
-Para poner en práctica todo lo aprendido de forma autodidacta, he desarrollado este proyecto. Además, me ha servido para profundizar un poco más en tecnologías como Spring o Bootstrap, y aprender otras como JsonWebTokens.
+Durante este verano he estado aprendiendo React de forma autodidacta con el objetivo de utilizarlo en mi Trabajo Fin de Grado que comenzaré en los próximos meses. <br>
+Para poner en práctica todo lo aprendido, he desarrollado este proyecto. Además, me ha servido para profundizar un poco más en tecnologías como Spring o Bootstrap, y aprender otras como JsonWebTokens.
 <br><br>
 Los repositorios con el código del proyecto son:<br>
 - [Frontend con React](https://github.com/SergioCarrascosaSanchez/ON-TASK-React)
