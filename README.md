@@ -34,8 +34,8 @@ Se mostrarán los grupos a los que pertenece el usuario y las tareas que tiene p
 Si el perfil es del usuario que ha iniciado sesión, se muestran dos botones para crear un nuevo grupo y unirse a uno ya existente.<br> 
 Esa compobación del perfil se hace mediante un Contexto de React.<br>
 <br>
-<img src="/resources/profile_1.png" alt="" width="960" height="540"/> 
-<img src="/resources/profile_2.png" alt="" width="960" height="540"/>
+<img src="/resources/profile_1.png" alt="" width="768" height="432"/> 
+<img src="/resources/profile_2.png" alt="" width="768" height="432"/>
 
 ### Grupos
 En la parte superior tenemos el nombre del grupo junto con el identificador.<br>
@@ -43,16 +43,16 @@ También se mostrarán los integrantes y todas las tareas que aún no se han com
 Si pertenecemos al grupo (se comprueba también mediante Contexto), nos aparecerán la opción de crear una nueva tarea. <br>
 A la hora de crearla podemos asignarsela a uno o varios integrantes.<br>
 <br>
-<img src="/resources/group_1.png" alt="" width="960" height="540"/> 
-<img src="/resources/group_2.png" alt="" width="960" height="540"/>
+<img src="/resources/group_1.png" alt="" width="768" height="432"/> 
+<img src="/resources/group_2.png" alt="" width="768" height="432"/>
 
 ### Tareas
 Una tarea está compuesta por un título y una descripción.<br>
 Cuando hacemos click en una tarea, ya sea desde un grupo o un usuario, podemos verla en detalle.<br>
 Además, si nos han asignado a ella tendremos la posibilidad de marcarla como completada.<br>
 <br>
-<img src="/resources/task_1.png" alt="" width="960" height="540"/> 
-<img src="/resources/task_2.png" alt="" width="960" height="540"/>
+<img src="/resources/task_1.png" alt="" width="768" height="432"/> 
+<img src="/resources/task_2.png" alt="" width="768" height="432"/>
 
 ### Video demostración
 https://user-images.githubusercontent.com/19820916/188886121-4a74fe2d-fd34-4407-a865-305b7ad4501f.mp4
