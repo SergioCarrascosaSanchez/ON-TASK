@@ -12,8 +12,13 @@ Los repositorios con el código del proyecto son:<br>
 ON TASK es un gestor de tareas en el que los usuarios se organizan en grupos. <br>
 Cualquier usuario puede crear un nuevo grupo o unirse a otros mediante un número identificador. <br>
 Una vez dentro de un grupo se pueden crear las tareas. Cada tarea tendrá un título y una descripción, y estará asignada a uno o varios integrantes del grupo<br>
-El objetivo de los grupos es que los usuarios puedan agrupar sus tareas en diferentes temáticas o ámbitos, facilitando así la organización.
-<br><br>
+El objetivo de los grupos es que los usuarios puedan agrupar sus tareas en diferentes temáticas o ámbitos, facilitando así la organización.<br>
+<br>
+Por ejemplo, imagínate que vas a crear una nueva aplicación con un par de amigos.<br>
+Uno de vosotros puede crear un grupo y compartir con el resto el identificador. <br>
+Cuando esteís todos en el grupo, podéis empezar a crear y asignar las principales tareas entre vosotros.<br>
+
+<br>
 Al final encontraréis un vídeo con una demostración de la aplicación completa para ver mejor cómo funciona realmente.
 
 ## Funciones
