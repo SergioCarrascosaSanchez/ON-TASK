@@ -10,12 +10,13 @@ Los repositorios con el código del proyecto son:<br>
 
 ## Breve explicación
 ON TASK es un gestor de tareas en el que los usuarios se organizan en grupos. <br>
-Cualquier usuario puede crear un nuevo grupo y compartir el identificador para que otros se unan. <br>
-Dentro de un grupo se pueden crear las distintas tareas, asignándolas a los usuarios que pertenecen a él.<br>
-Mediante los grupos conseguimos que las tareas no se mezclen unas con otras y queden agrupadas de una manera sencilla.
+Cualquier usuario puede crear un nuevo grupo o unirse a otros mediante un número identificador. <br>
+Una vez dentro de un grupo se pueden crear las tareas. Cada tarea tendrá un título y una descripción, y estará asignada a uno o varios integrantes del grupo<br>
+El objetivo de los grupos es que los usuarios puedan agrupar sus tareas en diferentes temáticas o ámbitos, facilitando así la organización.
+<br><br>
+Al final encontraréis un vídeo con una demostración de la aplicación completa para ver mejor cómo funciona realmente.
 
 ## Funciones
-Al final encontraréis un vídeo con una demostración de la aplicación completa en funcionamiento
 
 ### Login y Signup
 Para registrarse o iniciar sesión se deberá rellenar un formulario. Esa información se enviará a la API de Spring para poder validarla adecuadamente. <br>
