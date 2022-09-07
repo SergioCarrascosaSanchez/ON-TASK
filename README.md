@@ -1,7 +1,7 @@
 # ON TASK
 ON TASK es un gestor de tareas simple creado con React :atom_symbol: y Spring.<br>
 
-Durante este verano he estado aprendiendo React con el objetivo utlizarlo en mi Trabajo Fin de Grado que comenzaré en los próximos meses. <br>
+Durante este verano he estado aprendiendo React con el objetivo de utilizarlo en mi Trabajo Fin de Grado que comenzaré en los próximos meses. <br>
 Para poner en práctica todo lo aprendido de forma autodidacta, he desarrollado este proyecto. Además, me ha servido para profundizar un poco más en tecnologías como Spring o Bootstrap, y aprender otras como JsonWebTokens.
 <br><br>
 Los repositorios con el código del proyecto son:<br>
@@ -11,13 +11,13 @@ Los repositorios con el código del proyecto son:<br>
 ## Breve explicación
 ON TASK es un gestor de tareas en el que los usuarios se organizan en grupos. <br>
 Cualquier usuario puede crear un nuevo grupo o unirse a otros mediante un número identificador. <br>
-Una vez dentro de un grupo se pueden crear las tareas. Cada tarea tendrá un título y una descripción, y estará asignada a uno o varios integrantes del grupo<br>
+Una vez dentro, se pueden crear las tareas. Cada tarea tendrá un título y una descripción, y estará asignada a uno o varios integrantes.<br>
 El objetivo de los grupos es que los usuarios puedan agrupar sus tareas en diferentes temáticas o ámbitos, facilitando así la organización.<br>
 <br>
-Por ejemplo, imagínate que vas a crear una nueva aplicación con un par de amigos.<br>
+Por ejemplo, imagínate que vas a crear una aplicación con un par de amigos y queréis utilizar ON TASK para organizaros.<br>
 Uno de vosotros puede crear un grupo y compartir con el resto el identificador. <br>
 Cuando estéis todos en el grupo, podéis empezar a crear y asignar las principales tareas entre vosotros.<br>
-De esta forma todas las tareas que tengan que ver con la nueva aplicación quedarán claramente separadas de otras, como las tareas de clase o las tareas del hogar que te hayan asignado en el grupo de tu familia.
+De esta forma, si utilizas ON TASK para organizar otro tipo de tareas, como las del hogar con tu familia o las de clase, estas quedarán diferenciadas de aquellas que tengan que ver con la aplicación que vais a crear.
 
 <br>
 Al final encontraréis un vídeo con una demostración de la aplicación completa para ver mejor cómo funciona realmente.
