@@ -26,7 +26,7 @@ Al final encontraréis un vídeo con una demostración de la aplicación complet
 
 ### Login y Signup
 Para registrarse o iniciar sesión se deberá rellenar un formulario. Esa información se enviará a la API de Spring para poder validarla adecuadamente. <br><br>
-En el caso de iniciar sesión, si el usuario es correcto, la API devolverá un JsonWebToken para poder realizar el resto de llamadas autenticado con el usuario correspondiente. De esta forma la API podrá identificar el usuario que envía las peticiones y rechazará aquellas que no tengan token o no sea válido.<br>
+En el caso de iniciar sesión, si el usuario es correcto, la API devolverá un JsonWebToken para poder realizar el resto de llamadas. De esta forma la API podrá rechazar aquellas que no tengan token o no sea válido.<br>
 Además, se guardará el usuario que ha iniciado sesión, los grupos a los que pertenece y el token en un Contexto de React. Esa información se usará en el resto de componentes.
 
 ### Perfil de usuario
